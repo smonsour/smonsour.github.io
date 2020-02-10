@@ -1,0 +1,11 @@
+#comment
+title: an example
+github_username: smonsour
+description: >
+  This is a practice site to demo GitHub Pages.
+  
+  url: "https://library.brown.edu/"
+  
+  #build setting
+  Markdown: kramdown
+  theme: minima
